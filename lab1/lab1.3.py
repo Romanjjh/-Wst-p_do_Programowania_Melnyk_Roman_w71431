@@ -1,6 +1,7 @@
 # 3
-imie = "Roman"
+name = "Roman"
 kierunek = "Informatyka"
 uczelnia =" WSIZ"
 
-print('Nazywam sie ' + imie,",moj kierunek jest "  + kierunek, ",uczy sie w" + uczelnia )
+print('Nazywam sie ' + name,",moj kierunek jest "  + kierunek, ",uczy sie w" + uczelnia )
+
