@@ -1,3 +1,5 @@
+#lab1.10
+
 x = int(input("x = "))
 y = int(input("y = "))
 z = int(input("z = "))
