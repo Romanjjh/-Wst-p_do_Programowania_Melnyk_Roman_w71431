@@ -1,3 +1,5 @@
+#lab1.9
+
 age = int(input("what is your age?"))
 
 if (age < 0) and (age > 150):
@@ -13,7 +15,3 @@ else:
         print("you ticket cost 15zl")
     else:
         print("your ticket cost 20zl")
-
-
-
-
