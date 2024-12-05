@@ -24,4 +24,4 @@ ostatni_rachunek = rachunki[ostatni_miesiac]
 if ostatni_rachunek > srednia_wartosc:
     print("Trzeba zacisnąć pasa")
 else:
-    print("Wszystko okay")
+    print("Wszystko okayy")
